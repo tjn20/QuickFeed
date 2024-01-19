@@ -1,66 +1,25 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# QuickFeed
+Welcome to Quick Feed - Your Ultimate Social Experience!
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Overview
+Quick Feed is a dynamic social media platform designed for seamless and engaging user experiences. With real-time updates, users can stay instantly informed about the latest activities of their network. The integrated real-time chat system fosters immediate and meaningful connections. The Single Page Application (SPA) architecture ensures swift and responsive navigation.
 
-## About Laravel
+Enjoy infinite scrolling for effortless browsing, and let our advanced algorithms enhance your experience by suggesting relevant followings based on your interests. Quick Feed combines cutting-edge technology with user-friendly design to provide a vibrant and personalized social networking environment. Connect, share, and discover in real-time with Quick Feed.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Features
+- **Real-Time Updates:** Stay informed with real-time alerts on the latest activities in your network.
+- **Live Chat System:** Foster instant and deep interactions with our real-time chat technology, which elevates communication to new heights.
+- **SPA Architecture:** Enjoy seamless and responsive navigation with our Single Page Application architecture, providing a smooth and efficient user experience.
+- **Infinite Scrolling:** Effortlessly browse through content with our infinite scrolling feature, making exploration on Quick Feed a breeze.
+- **Intelligent Algorithms:** Experience personalized networking as our smart algorithms recommend relevant followings based on your interests, ensuring your feed is tuned just to you.
+- **Post Sharing:** Share your favorite posts with friends and followers to extend the reach of compelling content.
+- **Like and Comment:** Engage with the community by expressing your appreciation through likes and leaving comments on feeds.
+- **Profile Editing:** Customize your personal space on Quick Feed by easily editing and updating your profile information.
+- **Real-Time Profile Updates:** Witness immediate changes as your profile is updated in real-time, ensuring your connections always have the latest information about you.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Technologies Used
+* HTML,CSS,Bootstrap,JavaScript(Vanilla),Alpine Js,PHP,Laravel,Livewire,Pusher,Echo,MYSQL
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+ # Credits
+ QuickFeed has been independently developed by me @tjn20

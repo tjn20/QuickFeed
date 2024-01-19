@@ -1,0 +1,1 @@
+<img src={{ $src}} alt="Profile Picture" class="{{ $classes }}">
