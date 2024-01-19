@@ -3,7 +3,7 @@ Welcome to Quick Feed - Your Ultimate Social Experience!
 
 ![image](https://github.com/tjn20/QuickFeed/assets/142109365/8ddaa18e-7918-463a-a16e-c5bfba89eae0)
 
-![image](https://github.com/tjn20/QuickFeed/assets/142109365/d33fbf82-943b-4173-affa-978023b388b4)
+![image](https://github.com/tjn20/QuickFeed/assets/142109365/594558ac-e743-47ad-8431-94450ceb3d00)
 
 ![image](https://github.com/tjn20/QuickFeed/assets/142109365/6f731a70-8778-42a2-ba43-65390bdefc22)
 
