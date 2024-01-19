@@ -1,6 +1,16 @@
 # QuickFeed
 Welcome to Quick Feed - Your Ultimate Social Experience!
 
+![image](https://github.com/tjn20/QuickFeed/assets/142109365/8ddaa18e-7918-463a-a16e-c5bfba89eae0)
+
+![image](https://github.com/tjn20/QuickFeed/assets/142109365/d33fbf82-943b-4173-affa-978023b388b4)
+
+![image](https://github.com/tjn20/QuickFeed/assets/142109365/6f731a70-8778-42a2-ba43-65390bdefc22)
+
+![image](https://github.com/tjn20/QuickFeed/assets/142109365/696b3f76-a92c-409d-bad6-b21ad2a35727)
+
+
+
 ## Overview
 Quick Feed is a dynamic social media platform designed for seamless and engaging user experiences. With real-time updates, users can stay instantly informed about the latest activities of their network. The integrated real-time chat system fosters immediate and meaningful connections. The Single Page Application (SPA) architecture ensures swift and responsive navigation.
 
