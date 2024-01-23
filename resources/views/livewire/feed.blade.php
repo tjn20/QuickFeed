@@ -20,7 +20,7 @@
         </button>
      @if ($feed->user->id==Auth::id())
      <ul class="dropdown-menu border-0 shadow p-0 bg-white">
-        <li><button class="dropdown-item d-flex align-items-center text-danger border-0 bg-transparent" wire:click.debounce.1000ms="deleteFeed"><i class='bx bx-trash-alt me-1' ></i></i>Delete Post</button></li>
+        <li><button class="dropdown-item d-flex align-items-center text-danger border-0 bg-transparent" wire:click.debounce.1000ms="deleteFeed"  onclick="disableInteractions(this)"><i class='bx bx-trash-alt me-1' ></i></i>Delete Post</button></li>
     </ul>
      @endif
     </div>
