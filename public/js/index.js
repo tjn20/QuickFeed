@@ -194,6 +194,14 @@ function makeComment(feed)
 	showImg.src='';
 }
 
+function disableInteractions(button)
+{
+	const feed=button.closest('.card');
+	feed.querySelectorAll('button').forEach(btn=>{
+		btn.disabled=true;
+	})
+}
+
 
 function debounce(func, delay) {
 	let timerId;
